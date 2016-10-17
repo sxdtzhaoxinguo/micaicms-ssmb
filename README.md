@@ -6,3 +6,5 @@
 2.软件集成依赖： Spring SpringMVC MyBatis Log4j jstl checkstyle findbugs<br/>
 
 3.该项目中继承的父项目请看： https://github.com/sxdtzhaoxinguo/micaicms-pom
+
+4.熟悉git的操作
